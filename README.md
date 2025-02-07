@@ -7,7 +7,7 @@ This repository contains all the projects I completed during my AP Computer Scie
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
-- [License](#license)
+
 
 ## Introduction
 
