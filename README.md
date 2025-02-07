@@ -1,5 +1,4 @@
 # APCSA-Projects
-# APCSA Projects
 
 This repository contains all the projects I completed during my AP Computer Science A (APCSA) course in high school. Each project is written in Java and demonstrates my understanding of key programming concepts such as object-oriented programming, data structures, algorithms, and more.
 
